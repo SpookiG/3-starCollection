@@ -1,0 +1,17 @@
+<1>
+<OpenDialogue :: Box=1 : Travel=(0~0, 0~0),(SF, SH) : Speed=2>
+
+<Blab :: Speaker=Test1>
+Good morning snow!
+Good morning morning!
+And good morning me!
+The morning sends her regards, with cold..
+It is cold.
+It is very cold.
+I'm off to hang out with some people I don't know! No, it's probably not illegal? There's a new weekly event and it looks fun!
+It's the kind of cold where I can't really get my thoughts together. Like brain freeze but, uh, of the brain?? A little scattered, I'll admit.
+Oh I hope I make some friends.
+Let's have a little amble along and see if I can find this event!
+
+<OpenDialogue :: Travel=(pos, pos),(1~1, 0~0) : Speed=2>
+<1>

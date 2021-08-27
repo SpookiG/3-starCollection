@@ -1,0 +1,26 @@
+<1>
+<OpenDialogue :: Box=1 : Travel=(0~0, 0~0),(SF, SH) : Speed=2>
+
+<Blab :: Speaker=Test1>
+I think I'm here!
+"Oh, hi there! Is this where the event is happening?"
+
+<OpenDialogue :: Travel=(pos, pos),(1~1, 0~0) : Speed=2>
+<1>
+
+<2>
+<OpenDialogue :: Box=1 : Travel=(0~0, 0~0),(SF, SH) : Speed=2>
+
+<Blab :: Speaker=Test1>
+I really enjoyed my time here.
+I didn't really get to talk a lot, I guess I'm less confident in myself than I thought.
+But everyone here was lovely
+And I feel more serene...
+Than I have ever been...
+ ...
+I can poems sometimes!
+And
+And I think I'll come back next week as well.
+
+<OpenDialogue :: Travel=(pos, pos),(1~1, 0~0) : Speed=2>
+<2>

@@ -1,0 +1,94 @@
+<1>
+<OpenDialogue :: Box=1 : Travel=(0~0, 0~0),(SF, SH) : Speed=2>
+
+<Blab :: Speaker=Test1>
+Hmm.
+I wonder what's over there?
+I'm fairly sure we're on ground level. And that could be some ground in front of me.. 
+But it could also be a big drop off of a high rise building?
+I guess it's really interesting how often we just roll with the assumptions we make.
+I mean, I of all people definately should not be confused here, If there was a drop, I would definately know, because I'm standing right here facing it.
+Here I am though, I guess these thoughts were interesting enough to have for a little while.
+
+<OpenDialogue :: Travel=(pos, pos),(1~1, 0~0) : Speed=2>
+<1>
+
+
+<2>
+<OpenDialogue :: Box=1 : Travel=(0~0, 0~0),(SF, SH) : Speed=2>
+
+<Blab :: Speaker=Test1>
+Nothing to say this time.
+                 
+I'm just feeling very happy.
+
+<OpenDialogue :: Travel=(pos, pos),(1~1, 0~0) : Speed=2>
+<2>
+
+
+<3>
+<OpenDialogue :: Box=1 : Travel=(0~0, 0~0),(SF, SH) : Speed=2>
+
+<Blab :: Speaker=Test1>
+I can't not notice the snow.
+Apologies, not the snow, that's obvious.
+Powdery white ice on the floor during christmas? Who'd have thought!
+But no, like, my shoes.
+They make the same sounds, no matter what I'm walking on.
+It's a little confusing.
+But it's also calming, so I can't complain.
+Shuffle on snowie shoes.
+
+<OpenDialogue :: Travel=(pos, pos),(1~1, 0~0) : Speed=2>
+<3>
+
+
+<4>
+<OpenDialogue :: Box=1 : Travel=(0~0, 0~0),(SF, SH) : Speed=2>
+
+<Blab :: Speaker=Test1>
+Ah right, yes! The fence oops.
+Why is this fence here?
+I feel like there isn't really a purpose to it, besides adding some aesthetic interest. And some boundaries!
+                           
+You know, I appreciate this fence.
+Because of this fence, I'll be walking all the way around to get back home.
+And I can have more time to think about things.
+And I can look forward to where I'm headed, just a little more.
+Thank you fence!
+
+<OpenDialogue :: Travel=(pos, pos),(1~1, 0~0) : Speed=2>
+<4>
+
+
+<5>
+<OpenDialogue :: Box=1 : Travel=(0~0, 0~0),(SF, SH) : Speed=2>
+
+<Blab :: Speaker=Test1>
+I'll be honest, I'm impressed I ended up here.
+I am lost though.
+...
+Maybe that's not a bad thing?
+I basically know where I am.
+I just can't see.
+I don't think I'll find anything else here.
+It's always good to be curious though!
+
+<OpenDialogue :: Travel=(pos, pos),(1~1, 0~0) : Speed=2>
+<5>
+
+
+<6>
+<OpenDialogue :: Box=1 : Travel=(0~0, 0~0),(SF, SH) : Speed=2>
+
+<Blab :: Speaker=Test1>
+I wonder what happens if I try to think about more than one thing at a time?
+Hmm, I'd better not walk around too much whilst I'm thinking.
+Or maybe I should? You know, life's all about getting things mixed up!
+And forgetting!
+And confusing yourself!
+So maybe I should, maybe I'll wonder around and all the words will come out wrong.
+And maybe I'll love every second of it.
+
+<OpenDialogue :: Travel=(pos, pos),(1~1, 0~0) : Speed=2>
+<6>
